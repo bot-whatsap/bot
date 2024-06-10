@@ -88,6 +88,8 @@
     "ws": "^8.17.0",
     "yargs": "^17.3.1",
     "yt-search":" *", 
+    "api-dylux":" *", 
+    "@xct007/frieren-scraper":" *", 
     "ytdl-core": "github:khlevon/node-ytdl-core#v4.11.4-patch.2"
   },
   "devDependencies": {
